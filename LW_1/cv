@@ -1,7 +1,7 @@
----
+
 layout: pages
-title: "Curriculum Vitae"
-permalink: /Curriculum Vitae1/
+title: "Curriculum_Vitae"
+permalink: /Curriculum_Vitae/
 
 # Curriculum Vitae
 ---
@@ -12,6 +12,7 @@ Kisliuk Anastasia
 ---
 2. **Phone number**
 +375445160611
+
 **e-mail**
 kislyuk.nastya18@gmail.com
 ---
@@ -20,7 +21,8 @@ I am a student of the Belarusian-Russian University, studying in the third year 
 Strengths: Stress tolerance, teamwork, perseverance, sociable, creative. 
 During my studies, I want to improve my programming skills. 
 ---
-4. **Languages:** C#, JavaScript
+4. **Languages:** 
+C#, JavaScript
 ---
 5. **Code example:**
 ```
