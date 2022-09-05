@@ -1,11 +1,9 @@
 
 layout: pages
 title: "Curriculum_Vitae"
-permalink: /Curriculum_Vitae/
+permalink:/Curriculum_Vitae/
 
 # Curriculum Vitae
----
-![avatar](https://funart.pro/uploads/posts/2021-07/1626487339_34-funart-pro-p-nevispavshayasya-sova-zhivotnie-krasivo-fo-41.jpg)
 ---
 1. **Name**
 Kisliuk Anastasia
@@ -36,8 +34,12 @@ C#, JavaScript
             }
         }
 ```
----
 6. **Projects**
 [Link to repository](https://github.com/KNastya1102/SVChsVS_Kilsiuk_PIR-201)
 ---
-7. **English language level:** A2 Elementary
+7. **English language level:**
+A2 Elementary
+---
+8. **Photo or avatar**
+![avatar](https://funart.pro/uploads/posts/2021-07/1626487339_34-funart-pro-p-nevispavshayasya-sova-zhivotnie-krasivo-fo-41.jpg)
+---
