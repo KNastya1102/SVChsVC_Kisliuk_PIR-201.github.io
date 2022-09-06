@@ -8,20 +8,16 @@ permalink:/Curriculum_Vitae/
 
 1. **Name**
 Kisliuk Anastasia
----
 2. **Phone number**
 +375445160611
 **e-mail**
 kislyuk.nastya18@gmail.com
----
 3. **About Myself** 
 I am a student of the Belarusian-Russian University, studying in the third year of the specialty "Software Engineering". 
 Strengths: Stress tolerance, teamwork, perseverance, sociable, creative. 
 During my studies, I want to improve my programming skills. 
----
 4. **Languages:** 
 C#, JavaScript
----
 5. **Code example:**
 ```
         static void SetRandomNumbers(int[] array)
@@ -36,10 +32,7 @@ C#, JavaScript
 ```
 6. **Projects**
 [Link to repository](https://github.com/KNastya1102/SVChsVS_Kilsiuk_PIR-201)
----
 7. **English language level:**
 A2 Elementary
----
 8. **Photo or avatar**
 ![avatar](https://funart.pro/uploads/posts/2021-07/1626487339_34-funart-pro-p-nevispavshayasya-sova-zhivotnie-krasivo-fo-41.jpg)
----
