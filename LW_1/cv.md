@@ -5,13 +5,12 @@ permalink:/Curriculum_Vitae/
 ---
 
 # Curriculum Vitae
----
+
 1. **Name**
 Kisliuk Anastasia
 ---
 2. **Phone number**
 +375445160611
-
 **e-mail**
 kislyuk.nastya18@gmail.com
 ---
