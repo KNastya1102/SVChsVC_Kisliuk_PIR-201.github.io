@@ -1,7 +1,8 @@
-
+---
 layout: pages
 title: "Curriculum_Vitae"
 permalink:/Curriculum_Vitae/
+---
 
 # Curriculum Vitae
 ---
